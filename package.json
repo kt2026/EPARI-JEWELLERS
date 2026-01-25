@@ -1,0 +1,20 @@
+{
+  "name": "epari-jewellers",
+  "version": "1.0.0",
+  "description": "Epari Jewellers - Luxury Jewelry Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=/index.html",
+    "dev": "npx live-server --port=3000 --open=/index.html"
+  },
+  "keywords": [
+    "jewelry",
+    "luxury",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
